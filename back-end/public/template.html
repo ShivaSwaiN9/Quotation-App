@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>{{companyName}} Quotation</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 20px;
+            padding: 0;
+        }
+        .header {
+            text-align: center;
+            margin-bottom: 20px;
+        }
+        .header h1 {
+            margin: 0;
+        }
+        .company-info {
+            margin-bottom: 20px;
+        }
+        table {
+            width: 100%;
+            border-collapse: collapse;
+            margin: 20px 0;
+        }
+        th, td {
+            border: 1px solid #ddd;
+            padding: 8px;
+            text-align: left;
+        }
+        th {
+            background-color: #f2f2f2;
+        }
+        .terms {
+            margin-top: 20px;
+            font-size: 14px;
+        }
+    </style>
+</head>
+<body>
+
+    <div class="header">
+        <h1>{{companyName}} Quotation</h1>
+        <p>Date: {{date}}</p>
+    </div>
+
+    <div class="company-info">
+        <h3>To:</h3>
+        <p>{{toCompanyName}}</p>
+        <p>{{toAddress}}</p>
+    </div>
+
+    <div>
+        <h2>{{serviceTitle}}</h2>
+        <table>
+            <thead>
+                <tr>
+                    <th>Cost Head</th>
+                    <th>Particulars</th>
+                    <th>Security Guard - Semi Skilled</th>
+                    <th>Security Supervisor - Skilled</th>
+                </tr>
+            </thead>
+            <tbody>
+                {{#each serviceCharges}}
+                <tr>
+                    <td>{{this.costHead}}</td>
+                    <td>{{this.particulars}}</td>
+                    <td>{{this.securityGuardSemiSkilled}}</td>
+                    <td>{{this.securitySupervisorSkilled}}</td>
+                </tr>
+                {{/each}}
+            </tbody>
+        </table>
+    </div>
+
+    <div class="terms">
+        <h3>Terms and Conditions</h3>
+        <p>All prices are exclusive of GST.</p>
+        <p>This quotation is valid for 30 days.</p>
+        <p>Payment terms: 50% advance and 50% on completion.</p>
+    </div>
+
+</body>
+</html>

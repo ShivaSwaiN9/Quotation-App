@@ -1,0 +1,528 @@
+{
+    "companies": {
+      "ZPlusSecurity": {
+        "companyName": "Z plus security",
+        "services": {
+          "8HourService": {
+            "title": "8 Hrs Per day",
+            "costDetails": [
+              {
+                "costHead": "Minimum wages Per Day",
+                "particulars": "As per State Minimum Wages",
+                "securityGuardSemiSkilled": 500,
+                "securitySupervisorSkilled": 550
+              },
+              {
+                "costHead": "Minimum Wage for 26 days",
+                "particulars": "",
+                "securityGuardSemiSkilled": 13000,
+                "securitySupervisorSkilled": 14300
+              },
+              {
+                "costHead": "Special Allowance",
+                "particulars": "",
+                "securityGuardSemiSkilled": null,
+                "securitySupervisorSkilled": 800
+              },
+              {
+                "costHead": "Gross",
+                "particulars": "",
+                "securityGuardSemiSkilled": 13000,
+                "securitySupervisorSkilled": 15100
+              },
+              {
+                "costHead": "Provident Fund on Basic",
+                "particulars": "13.00%",
+                "securityGuardSemiSkilled": 1690,
+                "securitySupervisorSkilled": 1859
+              },
+              {
+                "costHead": "ESI on Gross 3.25%",
+                "particulars": "3.25%",
+                "securityGuardSemiSkilled": 423,
+                "securitySupervisorSkilled": 491
+              },
+              {
+                "costHead": "Gratuity",
+                "particulars": "4.81%",
+                "securityGuardSemiSkilled": 625,
+                "securitySupervisorSkilled": 688
+              },
+              {
+                "costHead": "Bonus 8.33% on MW",
+                "particulars": "8.33%",
+                "securityGuardSemiSkilled": 1083,
+                "securitySupervisorSkilled": 1191
+              },
+              {
+                "costHead": "Uniform",
+                "particulars": "",
+                "securityGuardSemiSkilled": 500,
+                "securitySupervisorSkilled": 500
+              },
+              {
+                "costHead": "Leave and N&F Holiday Wages (24 days per year)",
+                "particulars": "",
+                "securityGuardSemiSkilled": 867,
+                "securitySupervisorSkilled": 1007
+              },
+              {
+                "costHead": "Sub Total A",
+                "particulars": "",
+                "securityGuardSemiSkilled": 5187,
+                "securitySupervisorSkilled": 5735
+              },
+              {
+                "costHead": "CTC",
+                "particulars": "",
+                "securityGuardSemiSkilled": 18187,
+                "securitySupervisorSkilled": 20835
+              },
+              {
+                "costHead": "Reliever Cost 16.67%",
+                "particulars": "16.67%",
+                "securityGuardSemiSkilled": 3032,
+                "securitySupervisorSkilled": 3473
+              },
+              {
+                "costHead": "Sub Total B",
+                "particulars": "",
+                "securityGuardSemiSkilled": 21219,
+                "securitySupervisorSkilled": 24309
+              },
+              {
+                "costHead": "ACCOMMODATION",
+                "particulars": "",
+                "securityGuardSemiSkilled": 700,
+                "securitySupervisorSkilled": 1000
+              },
+              {
+                "costHead": "Sub Total C",
+                "particulars": "",
+                "securityGuardSemiSkilled": 21919,
+                "securitySupervisorSkilled": 25309
+              },
+              {
+                "costHead": "Service Charges 10%",
+                "particulars": "10%",
+                "securityGuardSemiSkilled": 2192,
+                "securitySupervisorSkilled": 2531
+              },
+              {
+                "costHead": "Total",
+                "particulars": "",
+                "securityGuardSemiSkilled": 24111,
+                "securitySupervisorSkilled": 27840
+              },
+              {
+                "costHead": "Price for 8 hrs PM",
+                "particulars": "",
+                "securityGuardSemiSkilled": 24111,
+                "securitySupervisorSkilled": 27840
+              },
+              {
+                "costHead": "Price for 8 hrs PD",
+                "particulars": "",
+                "securityGuardSemiSkilled": 793,
+                "securitySupervisorSkilled": 915
+              }
+            ]
+          },
+          "12HourService": {
+            "title": "12 Hrs/Per Day ",
+            "costDetails": [
+              {
+                "costHead": "Minimum wages Per Day",
+                "particulars": "As per State Minimum Wages",
+                "securityGuardSemiSkilled": 500,
+                "securitySupervisorSkilled": 550
+              },
+              {
+                "costHead": "Minimum Wage for 26 days",
+                "particulars": "",
+                "securityGuardSemiSkilled": 13000,
+                "securitySupervisorSkilled": 14300
+              },
+              {
+                "costHead": "Special Allowance",
+                "particulars": "",
+                "securityGuardSemiSkilled": 6500,
+                "securitySupervisorSkilled": 7150
+              },
+              {
+                "costHead": "Gross",
+                "particulars": "",
+                "securityGuardSemiSkilled": 19500,
+                "securitySupervisorSkilled": 21450
+              },
+              {
+                "costHead": "Provident Fund on Basic",
+                "particulars": "13.00%",
+                "securityGuardSemiSkilled": 1690,
+                "securitySupervisorSkilled": 1859
+              },
+              {
+                "costHead": "ESI on Gross 3.25%",
+                "particulars": "3.25%",
+                "securityGuardSemiSkilled": 423,
+                "securitySupervisorSkilled": 697
+              },
+              {
+                "costHead": "Gratuity",
+                "particulars": "4.81%",
+                "securityGuardSemiSkilled": 625,
+                "securitySupervisorSkilled": 688
+              },
+              {
+                "costHead": "Bonus 8.33% on MW",
+                "particulars": "8.33%",
+                "securityGuardSemiSkilled": 1083,
+                "securitySupervisorSkilled": 1191
+              },
+              {
+                "costHead": "Uniform",
+                "particulars": "",
+                "securityGuardSemiSkilled": 500,
+                "securitySupervisorSkilled": 500
+              },
+              {
+                "costHead": "Leave and N&F Holiday Wages (24 days per year)",
+                "particulars": "",
+                "securityGuardSemiSkilled": 867,
+                "securitySupervisorSkilled": 1007
+              },
+              {
+                "costHead": "Sub Total A",
+                "particulars": "",
+                "securityGuardSemiSkilled": 6915,
+                "securitySupervisorSkilled": 7992
+              },
+              {
+                "costHead": "CTC",
+                "particulars": "",
+                "securityGuardSemiSkilled": 26415,
+                "securitySupervisorSkilled": 29442
+              },
+              {
+                "costHead": "Reliever Cost 16.67%",
+                "particulars": "16.67%",
+                "securityGuardSemiSkilled": 0,
+                "securitySupervisorSkilled": 0
+              },
+              {
+                "costHead": "Sub Total B",
+                "particulars": "",
+                "securityGuardSemiSkilled": 26415,
+                "securitySupervisorSkilled": 29442
+              },
+              {
+                "costHead": "ACCOMMODATION",
+                "particulars": "",
+                "securityGuardSemiSkilled": 700,
+                "securitySupervisorSkilled": 1000
+              },
+              {
+                "costHead": "Sub Total C",
+                "particulars": "",
+                "securityGuardSemiSkilled": 27115,
+                "securitySupervisorSkilled": 30442
+              },
+              {
+                "costHead": "Service Charges 10%",
+                "particulars": "10%",
+                "securityGuardSemiSkilled": 2711,
+                "securitySupervisorSkilled": 3044
+              },
+              {
+                "costHead": "Total",
+                "particulars": "",
+                "securityGuardSemiSkilled": 29826,
+                "securitySupervisorSkilled": 33486
+              },
+              {
+                "costHead": "Price for 12 hrs PM",
+                "particulars": "",
+                "securityGuardSemiSkilled": 29826,
+                "securitySupervisorSkilled": 33486
+              },
+              {
+                "costHead": "Price for 12 hrs PD",
+                "particulars": "",
+                "securityGuardSemiSkilled": 993,
+                "securitySupervisorSkilled": 1116
+              }
+            ]
+          }
+        },
+        "note":[
+            "All prices are exclusive of GST.",
+            "This quotation is valid for 30 days.",
+            "Payment terms: 50% advance and 50% on completion."
+          ]
+        },
+        "MrCorporate": {
+          "companyName": "Mr. Corporate",
+          "services": {
+            "12HourService": {
+    "title": "12 Hrs Per day",
+    "costDetails": [
+      {
+        "costHead": "Minimum wages Per Day",
+        "particulars": "As per State Minimum Wages",
+        "securityGuardSemiSkilled": 500,
+        "securitySupervisorSkilled": 550
+      },
+      {
+        "costHead": "Minimum Wage for 26 days",
+        "particulars": "",
+        "securityGuardSemiSkilled": 13000,
+        "securitySupervisorSkilled": 14300
+      },
+      {
+        "costHead": "Gross",
+        "particulars": "",
+        "securityGuardSemiSkilled": 19500,
+        "securitySupervisorSkilled": 21450
+      },
+      {
+        "costHead": "Provident Fund on Basic",
+        "particulars": "13%",
+        "securityGuardSemiSkilled": 1690,
+        "securitySupervisorSkilled": 1859
+      },
+      {
+        "costHead": "ESI on Gross",
+        "particulars": "3.25%",
+        "securityGuardSemiSkilled": 423,
+        "securitySupervisorSkilled": 697
+      },
+      {
+        "costHead": "Gratuity",
+        "particulars": "4.81%",
+        "securityGuardSemiSkilled": 625,
+        "securitySupervisorSkilled": 688
+      },
+      {
+        "costHead": "Bonus 8.33% on MW",
+        "particulars": "8.33%",
+        "securityGuardSemiSkilled": 1083,
+        "securitySupervisorSkilled": 1191
+      },
+      {
+        "costHead": "Uniform",
+        "particulars": "",
+        "securityGuardSemiSkilled": 500,
+        "securitySupervisorSkilled": 500
+      },
+      {
+        "costHead": "Leave and N&F Holiday Wages (24 days per year)",
+        "particulars": "",
+        "securityGuardSemiSkilled": 867,
+        "securitySupervisorSkilled": 953
+      },
+      {
+        "costHead": "Sub Total A",
+        "particulars": "",
+        "securityGuardSemiSkilled": 5687,
+        "securitySupervisorSkilled": 6388
+      },
+      {
+        "costHead": "CTC",
+        "particulars": "",
+        "securityGuardSemiSkilled": 25187,
+        "securitySupervisorSkilled": 27838
+      },
+      {
+        "costHead": "Reliever Cost 16.67%",
+        "particulars": "16.67%",
+        "securityGuardSemiSkilled": 4198,
+        "securitySupervisorSkilled": 4640
+      },
+      {
+        "costHead": "Sub Total B",
+        "particulars": "",
+        "securityGuardSemiSkilled": 29385,
+        "securitySupervisorSkilled": 32478
+      },
+      {
+        "costHead": "Accommodation",
+        "particulars": "",
+        "securityGuardSemiSkilled": 500,
+        "securitySupervisorSkilled": 500
+      },
+      {
+        "costHead": "Sub Total C",
+        "particulars": "",
+        "securityGuardSemiSkilled": 29885,
+        "securitySupervisorSkilled": 32978
+      },
+      {
+        "costHead": "Service Charges 10%",
+        "particulars": "10%",
+        "securityGuardSemiSkilled": 2939,
+        "securitySupervisorSkilled": 3248
+      },
+      {
+        "costHead": "Total",
+        "particulars": "",
+        "securityGuardSemiSkilled": 32324,
+        "securitySupervisorSkilled": 35726
+      },
+      {
+        "costHead": "Price for 8 hrs PM",
+        "particulars": "",
+        "securityGuardSemiSkilled": 32324,
+        "securitySupervisorSkilled": 35726
+      },
+      {
+        "costHead": "Price for 8 hrs PD",
+        "particulars": "",
+        "securityGuardSemiSkilled": 1077,
+        "securitySupervisorSkilled": 1191
+      }
+    ]
+  }
+          },
+          "note": [
+            "Terms & Conditions:",
+            "QUOTATION FOR MANPOWER SERVICES",
+            "Accommodation cost is inclusive if client is not providing.",
+            "GST 18% extra applicable as per Govt notification",
+            "The Billing rate will be revised according to the Govt. notification",
+            "Above quoted rate including statutory compliances."
+          ]
+        },
+        "UtkalFacility": {
+          "companyName": "Utkal Facility Services Pvt. Ltd.",
+          "services": {
+            "8HourService": {
+    "title": "8 Hrs/Per Day",
+    "costDetails": [
+      {
+        "costHead": "Minimum wages Per Day",
+        "particulars": "As per State Minimum Wages",
+        "securityGuardSemiSkilled": 500,
+        "securitySupervisorSkilled": 550
+      },
+      {
+        "costHead": "Minimum Wage for 26 days",
+        "particulars": "",
+        "securityGuardSemiSkilled": 13000,
+        "securitySupervisorSkilled": 14300
+      },
+      {
+        "costHead": "Gross",
+        "particulars": "",
+        "securityGuardSemiSkilled": 18687,
+        "securitySupervisorSkilled": 15100
+      },
+      {
+        "costHead": "Provident Fund on Basic",
+        "particulars": "13.00%",
+        "securityGuardSemiSkilled": 1690,
+        "securitySupervisorSkilled": 1859
+      },
+      {
+        "costHead": "ESI on Gross 3.25%",
+        "particulars": "3.25%",
+        "securityGuardSemiSkilled": 423,
+        "securitySupervisorSkilled": 491
+      },
+      {
+        "costHead": "Gratuity",
+        "particulars": "4.81%",
+        "securityGuardSemiSkilled": 625,
+        "securitySupervisorSkilled": 688
+      },
+      {
+        "costHead": "Bonus 8.33% on MW",
+        "particulars": "8.33%",
+        "securityGuardSemiSkilled": 1083,
+        "securitySupervisorSkilled": 1191
+      },
+      {
+        "costHead": "Uniform",
+        "particulars": "",
+        "securityGuardSemiSkilled": 500,
+        "securitySupervisorSkilled": 500
+      },
+      {
+        "costHead": "Leave and N&F Holiday Wages (24 days per year)",
+        "particulars": "",
+        "securityGuardSemiSkilled": 867,
+        "securitySupervisorSkilled": 953
+      },
+      {
+        "costHead": "Sub Total A",
+        "particulars": "",
+        "securityGuardSemiSkilled": 5687,
+        "securitySupervisorSkilled": 6182
+      },
+      {
+        "costHead": "CTC",
+        "particulars": "",
+        "securityGuardSemiSkilled": 18687,
+        "securitySupervisorSkilled": 21282
+      },
+      {
+        "costHead": "Reliever Cost 16.67%",
+        "particulars": "16.67%",
+        "securityGuardSemiSkilled": 3115,
+        "securitySupervisorSkilled": 3548
+      },
+      {
+        "costHead": "Sub Total B",
+        "particulars": "",
+        "securityGuardSemiSkilled": 21803,
+        "securitySupervisorSkilled": 24830
+      },
+      {
+        "costHead": "ACCOMMODATION",
+        "particulars": "",
+        "securityGuardSemiSkilled": 500,
+        "securitySupervisorSkilled": 500
+      },
+      {
+        "costHead": "Sub Total C",
+        "particulars": "",
+        "securityGuardSemiSkilled": 21803,
+        "securitySupervisorSkilled": 24830
+      },
+      {
+        "costHead": "Service Charges 10%",
+        "particulars": "10%",
+        "securityGuardSemiSkilled": 2180,
+        "securitySupervisorSkilled": 2483
+      },
+      {
+        "costHead": "Total",
+        "particulars": "",
+        "securityGuardSemiSkilled": 23983,
+        "securitySupervisorSkilled": 27313
+      },
+      {
+        "costHead": "Price for 12 hrs PM",
+        "particulars": "",
+        "securityGuardSemiSkilled": 23983,
+        "securitySupervisorSkilled": 27313
+      },
+      {
+        "costHead": "Price for 12 hrs PD",
+        "particulars": "",
+        "securityGuardSemiSkilled": 788,
+        "securitySupervisorSkilled": 898
+      }
+    ]
+  }
+          },
+          "note": [
+            "Accommodation cost is inclusive if client is not providing.",
+            "Above quoted rate including statutory compliances.",
+            "GST 18% extra applicable as per Govt notification",
+            "The Billing rate will be revised according to the Govt. notification."
+          ]
+        }
+    }
+  }
+  
+  
